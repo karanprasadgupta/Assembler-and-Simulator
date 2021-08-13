@@ -1,2 +1,2 @@
 #!/bin/bash
-java CO_Assignment.java $@
+java src/CO_Assignment.java $@
