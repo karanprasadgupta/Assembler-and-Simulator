@@ -1,2 +1,2 @@
 #!/bin/bash
-java src/CO_Assignment.java $@
+python3 src/main.py $@
