@@ -43,4 +43,7 @@ The Assembler and Simulator support a specific set of assembly language instruct
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request. Make sure to follow the repository's code of conduct.
 
->This project was developed as a part of the Computer Organization, Monsoon 2021 semester, assignment at IIITD.
+## License
+This project is licensed under the [MIT License](./LICENSE). Feel free to modify and use the code as per the license terms.
+
+>This project was developed just for learning purposes as part of the Computer Organization, Monsoon 2021 semester, assignment at IIITD.
